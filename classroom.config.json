@@ -1,19 +1,17 @@
 {
-  "org": "learn-node",
-  "updateStep": 2,
-  "classrooms": [
-    {
-      "name": "109397453-learn-node-classroom-32d9a5",
-      "assignments": [["exercise-reading", { "branches": [ "lab0", "lab1" ] }], "c-language", "rust-exercise"],
-      "studentBlacklist": []
-    },
-    {
-      "name": "109397453-forth-grade",
-      "assignments": ["exercise-reading", "math-assignment-one"],
-      "studentBlacklist": []
+    "org": "os2edu",
+    "updateStep": 1,
+    "classrooms": [
+        {
+            "name": "19380377-2022-training-comp-on-open-source-os",
+            "assignments": ["lab0-0-setup-env-run-os1", "lab0-1-run-os2", "lab1-os3", "lab2-os4", "lab3-os5", "lab4-os6", "lab5-os8"]
+        },
+        {
+            "name": "19380377-learning-rust",
+            "assignments": ["learn_rust_rustlings"]
+        }
+    ],
+    "website": {
+        "title": "2022开源操作系统训练营排行榜"
     }
-  ],
-  "website": {
-    "title": "2022开源操作系统训练营排行榜"
-  }
 }
